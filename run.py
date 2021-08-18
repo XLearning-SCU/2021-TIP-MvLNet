@@ -10,7 +10,7 @@ from applications.Config import load_config
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
-config = load_config("./config/Caltech101-20.yaml")  # noisymnist　Caltech101-20 wiki
+config = load_config("./config/noisymnist.yaml")  # noisymnist　Caltech101-20 wiki
 # LOAD DATA
 data_list = get_data(config)
 

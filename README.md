@@ -2,7 +2,7 @@
 
 This repository is the official implementation of [MvLNet](https://ieeexplore.ieee.org/abstract/document/9446572). 
 
-<img src="https://github.com/XLearning-SCU/2021-TIP-MvLNet/blob/main/MvLNet.png"  width="2048" height="662" />
+<img src="https://github.com/XLearning-SCU/2021-TIP-MvLNet/blob/main/MvLNet.png"  width="1024" height="331" />
 
 ## Requirements
 
